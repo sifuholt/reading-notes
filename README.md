@@ -16,5 +16,5 @@ Hi, my name is Ken and I *love* to read. I also love my family; my wife and two 
 Here's a link to my [github portfolio](https://github.com/sifuholt).
 
 
-(https://github.com/sifuholt)[class1.md]
+[Class 1](class1.md)
 
