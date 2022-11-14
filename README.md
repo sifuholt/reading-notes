@@ -8,5 +8,5 @@ Growth mindset means to me that...
 2.
 3.
 
-Here's a link to my github portfolio: https://github.com/sifuholt
+Here's a link to my github portfolio: https://sifuholt.github.com/
 
