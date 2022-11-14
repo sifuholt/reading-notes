@@ -2,13 +2,13 @@
 
 Hi, my name is Ken and I *love* to read. I also love my family; my wife and two daughters. They not only make me want to learn more and connect more, but they genuinely make me want to be a better person.
 
-Growth mindset means to me that...
+## Growth mindset means to me that...
   I am alive and aware and that this moment is fleeting/eternal. It means to me that everything is precious, even if it doesn't make sense at the time.
 
-To keep myself in this frame of mind I believe I should:
+### To keep myself in this frame of mind I believe I should:
 
-1. I can adapt to any environment that I find myself in.   ~~What have I gotten myself into?~~
-2. I never feel like I am at a point where I don't need to evolve.   ~~This is the way it has been and should always be!~~
+1. Adapt to any environment that I find myself in.   ~~What have I gotten myself into?~~
+2. Never feel like I am at a point where I don't need to evolve.   ~~This is the way it has been and should always be!~~
 3. **Am constantly able to grow and learn __and change__**, that experience ***(good or bad)***, is a valuable lesson and nothing to fear.
 
 
