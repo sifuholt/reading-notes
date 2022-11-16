@@ -1,16 +1,17 @@
-# Reflection and Discussion
+Class 2 Notes - The Coder’s Computer
 
-The command line, otherwise known as a terminal, is a versatile tool that allows anyone wanting to learn to code to try things out before a finished product is finalized.
+We discussed Text Editors, which are basic programs to create code. There are some that come installed on your computer, but they are not recommended.
 
-Navigation helps us get around the files that we are looking to create, maintain and update.
+We discussed Code Editors, which are interactive programs used to create code, they can help make it easier to understand. They have the ability to work wiht various coding languages which is helpful. Some great Code Editors are VSCode and NotePad++.
 
-The files that we create and maintain will be found within the parameters that are created using some type of text editor.
+Terminal is another name for Cofmmand Line Interface, which is a way to navigate your copmuter. Some examples of this would be cd, to change directory, or ls, which shows you which directory you are in.
 
-There is a slight difference in a text editor and an IDE (Integrated Development Environment), the latter being mainly a suite of different software coming all together in one package.
+This is a way to navigate your computer through text-based commands (vs using a mouse and keyboard). You are given a prompt and type a respone. The terminal will produce a text response, and the cycle continues.
 
+The big parts to understand here are the details. Every detail matters, and while there are many ways to figure it out one way, the various ways of utilizing tools are throughout. 
 
-## Things I would like to learn more about:
+I would really like to just practice this more, the repetition of it will help me familiarize myself with what needs to be done...say in VS Code.
 
-I really look forward to utilizing this more frequently and becoming more proficient, but that comes with practice. So, projects to get better.
+https://sifuholt.github.io/reading-notes/
 
 [Back To Home](../README.md)
