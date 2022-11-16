@@ -1,15 +1,5 @@
 # My Reading Journal For CODE FELLOWS 
 
-Hi, my name is Ken and I *love* to read. I also love my family; my wife and two daughters. They not only make me want to learn more and connect more, but they genuinely make me want to be a better person.
-
-## Growth mindset means to me that...
-  I am alive and aware and that this moment is fleeting/eternal. It means to me that everything is precious, even if it doesn't make sense at the time. This is a constantly evolving mentality and one that takes patience. I ask a lot of questions and find that the answers only prompt me to ask more, or to think of things in other ways. 
-
-### To keep myself in this frame of mind I believe I should:
-
-1. Adapt to any environment that I find myself in.   ~~What have I gotten myself into?~~
-2. Never feel like I am at a point where I don't need to evolve.   ~~This is the way it has been and should always be!~~
-3. **Constantly be able to grow and learn __and change__**, that experience ***(good or bad)***, is a valuable lesson and nothing to fear.
 
 
 
@@ -17,4 +7,30 @@ Here's a link to my [github portfolio](https://github.com/sifuholt).
 
 
 [Class 1](class1.md)
+
+#Table of contents
+
+##
+
+
+
+
+# My Reading Journal For Code Fellows
+*Hi, my name is Ken and I am really excited to learn all this*
+
+## Table of Contents
+
+### 102 Notes
+
+* [Class 1 Reading Notes](102/file1.md)
+* [Class 2 Reading Notes](102/file2.md)
+* [Class 3 Reading Notes](102/file3.md)
+* [Class 4 Reading Notes](102/file4.md)
+* [Class 5 Reading Notes](102/file5.md)
+* [Class 6 Reading Notes](102/file6.md)
+* [Class 7 Reading Notes](102/file7.md)
+* [Class 8 Reading Notes](102/file8.md)
+* [Class 1 Reading Notes](102/file1.md)
+
+[Back To Home](../README.md)
 
