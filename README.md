@@ -1,24 +1,14 @@
-# My Reading Journal For CODE FELLOWS 
-
-
-
-
-Here's a link to my [github portfolio](https://github.com/sifuholt).
-
-
-[Class 1](class1.md)
-
-#Table of contents
-
-##
-
-
-
-
 # My Reading Journal For Code Fellows
-*Hi, my name is Ken and I am really excited to learn all this*
+
+Hi, my name is Ken and I am *really* excited to learn about coding!
+
+This will be part of my journey through this world, one that is completely new to me, but one that I will hopefully share with my family. I am a proud father of two girls. Both my wife and I are veterans and we are happy to live in Oregon. Many of these ideas that I will use for projects will come directly from what we are either trying to learn more about or to be part of in real life, so this website will be about my progress towards that goal, with this.
+
+#
 
 ## Table of Contents
+#
+
 
 ### 102 Notes
 
@@ -32,5 +22,30 @@ Here's a link to my [github portfolio](https://github.com/sifuholt).
 * [Class 8 Reading Notes](102/file8.md)
 * [Class 1 Reading Notes](102/file1.md)
 
+#
+### 201 Notes
+
+
+* [Class 1 Reading Notes](201/file1.md)
+* [Class 2 Reading Notes](201/file2.md)
+* [Class 3 Reading Notes](201/file3.md)
+* [Class 4 Reading Notes](201/file4.md)
+* [Class 5 Reading Notes](201/file5.md)
+* [Class 6 Reading Notes](201/file6.md)
+* [Class 7 Reading Notes](201/file7.md)
+* [Class 8 Reading Notes](201/file8.md)
+* [Class 10 Reading Notes](201/file1.md)
+* [Class 11 Reading Notes](201/file1.md)
+* [Class 12 Reading Notes](201/file1.md)
+* [Class 13 Reading Notes](201/file1.md)
+* [Class 14 Reading Notes](201/file1.md)
+* [Class 15 Reading Notes](201/file1.md)
+
+#
+
+
 [Back To Home](../README.md)
+
+
+Here's a link to my [github portfolio](https://github.com/sifuholt).
 
