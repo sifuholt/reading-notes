@@ -59,7 +59,8 @@ To apply Javascript to an html page we use <script>.
   
   
 
-
+##Things I would like to learn more about
+  All of this!! I need to put in time doing this over and over and making errors and learning.
 
 
 
