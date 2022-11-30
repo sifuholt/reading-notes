@@ -16,7 +16,7 @@ MORE HTML
   To create a list of related items in no particular order, this would be an unordered list. But to create a list of related items, in a specific order, this would be an ordered list.
   
 4. Describe two ways you can change the numbers on list items provided by an ordered list?
-  One option would be to use the HTML <ol> element to define an ordered list, we could use the html type attribute to define the numbering type. We could also use the HTML <li> to define the list item. 
+  One option would be to use the HTML (ol) element to define an ordered list, we could use the html type attribute to define the numbering type. We could also use the HTML (li) to define the list item. 
 
 
 MORE CSS
