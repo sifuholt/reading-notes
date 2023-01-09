@@ -28,6 +28,10 @@ How are props used in React?
   They can be used to store data that can be accessed by the children of a React component.
 
 What is the flow of props?
-To pass data from one component to another component.
+  To pass data from one component to another component.
+
+
+## Things I would like to know more about.
+  Actually both of these things that I just read about. It seems like a more streamlined way to write this and they seem, at least they seem user friendly.
 
 
