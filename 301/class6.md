@@ -27,11 +27,11 @@ An Introduction to Node.js on sitepoint.com.
 
 
 1. What are the 6 reasons for pair programming?
-
+  Greater efficiency, engaged collaboration, learning, social skills, job interview readiness, work environment readiness.
 2. In your experience, which of these reasons have you found most beneicial?
-
+  Engaged collaboration
 3. How does pair pgrogramming work?
-
+  Dynamically is the best in my opinion.
 
 
 Things I would like to know more about: again, all of this. I would like to do something where I can continually improve.
